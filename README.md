@@ -1,6 +1,6 @@
 # ts-shell
 
-A POSIX-compliant shell implementation written in TypeScript, following the Code Crafters "Build Your Own Shell" course.
+A POSIX-compliant shell implementation written in TypeScript.
 
 ## Features
 
